@@ -1,0 +1,90 @@
+
+
+.search-bar {
+    padding-top: 10px;
+    height: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.search {
+    padding-top: 10px;
+    height: 20px;
+    width: 500px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 200px;
+    margin-left: 70px;
+    border: none;
+    box-shadow: 1px 1px 1px 1px;
+
+}
+
+.container1 {
+    margin-top: 80px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left-text {
+    flex-direction: column;
+    width: 40%;
+}
+
+.text-1 {
+    width:350px;
+    border-radius: 5px;
+    height:30px;
+    border-color: black;
+}
+label{
+    font-size: 15px;
+    color:gray;
+}
+.p1{
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: Arial;
+    color:gray;
+}
+
+.tweet-button {
+    background-color: rgb(2, 158, 255);
+    color: white;
+    height: 35px;
+    width: 80px;
+    border: none;
+    border-radius: 18px;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+.agree-button {
+    background-color: rgb(2, 158, 255);
+    color: white;
+    height: 45px;
+    width: 350px;
+    border: none;
+    border-radius:25px;
+    font-size: 17px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.right-text{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:50px;
+    color:gray;
+}
+.image1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
